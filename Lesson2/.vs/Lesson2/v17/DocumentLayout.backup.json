@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson2\\lesson2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson2\\lesson2\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson2\\lesson2\\newemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\newemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson2\\lesson2\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\employeetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson2\\lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04886C0-F507-41E3-A2F1-B1996B2FF84B}|Lesson2\\Lesson2.csproj|solutionrelative:lesson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeTest.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\EmployeeTest.cs",
+              "RelativeDocumentMoniker": "Lesson2\\EmployeeTest.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\EmployeeTest.cs",
+              "RelativeToolTip": "Lesson2\\EmployeeTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:41:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewEmployee.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\NewEmployee.cs",
+              "RelativeDocumentMoniker": "Lesson2\\NewEmployee.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\NewEmployee.cs",
+              "RelativeToolTip": "Lesson2\\NewEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:34:55.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\Employee.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Employee.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\Employee.cs",
+              "RelativeToolTip": "Lesson2\\Employee.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:05:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Lesson2\\IEmployee.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\IEmployee.cs",
+              "RelativeToolTip": "Lesson2\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:02:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2\\Program.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson2\\Lesson2\\Program.cs",
+              "RelativeToolTip": "Lesson2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:59:05.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
