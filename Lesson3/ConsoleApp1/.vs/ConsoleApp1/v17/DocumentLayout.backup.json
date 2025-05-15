@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\consoleapp1\\consoleapp1\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\onlinecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\consoleapp1\\consoleapp1\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\consoleapp1\\consoleapp1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\consoleapp1\\consoleapp1\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B4096E-A574-4EBB-9ED4-5C7455955957}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\icourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\Course.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Course.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\Course.cs",
+              "RelativeToolTip": "ConsoleApp1\\Course.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:02:42.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\CourseManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CourseManager.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\CourseManager.cs",
+              "RelativeToolTip": "ConsoleApp1\\CourseManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:23:17.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineCourse.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\OnlineCourse.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\OnlineCourse.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\OnlineCourse.cs",
+              "RelativeToolTip": "ConsoleApp1\\OnlineCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:16:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourse.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\ICourse.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ICourse.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\ICourse.cs",
+              "RelativeToolTip": "ConsoleApp1\\ICourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:01:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:59:18.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
