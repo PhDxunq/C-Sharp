@@ -1,0 +1,15 @@
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.exe
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.deps.json
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.runtimeconfig.json
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.dll
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.pdb
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.csproj.AssemblyReference.cache
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.AssemblyInfoInputs.cache
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.AssemblyInfo.cs
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.csproj.CoreCompileInputs.cache
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.dll
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\refint\Lesson6.dll
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.pdb
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.genruntimeconfig.cache
+D:\Aptech_Homework\C#\C-Sharp\Lesson6\Lesson6\obj\Debug\net6.0\ref\Lesson6.dll
