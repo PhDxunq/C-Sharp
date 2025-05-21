@@ -1,0 +1,5 @@
+D:\Aptech_Homework\C#\C-Sharp\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.csproj.AssemblyReference.cache
+D:\Aptech_Homework\C#\C-Sharp\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aptech_Homework\C#\C-Sharp\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.AssemblyInfoInputs.cache
+D:\Aptech_Homework\C#\C-Sharp\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.AssemblyInfo.cs
+D:\Aptech_Homework\C#\C-Sharp\Lesson3\Lesson3\obj\Debug\net6.0\Lesson3.csproj.CoreCompileInputs.cache
