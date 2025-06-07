@@ -1,0 +1,15 @@
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.exe
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.deps.json
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.runtimeconfig.json
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.dll
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.pdb
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfoInputs.cache
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfo.cs
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.csproj.CoreCompileInputs.cache
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.sourcelink.json
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.dll
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\refint\Lesson7.dll
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.pdb
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.genruntimeconfig.cache
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\Lesson7\Lesson7\obj\Debug\net8.0\ref\Lesson7.dll

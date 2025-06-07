@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\Lesson7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB66876-9B74-4F6D-81FD-EA85751F9D73}|Lesson7\\Lesson7.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\lesson7\\lesson7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB66876-9B74-4F6D-81FD-EA85751F9D73}|Lesson7\\Lesson7.csproj|solutionrelative:lesson7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB66876-9B74-4F6D-81FD-EA85751F9D73}|Lesson7\\Lesson7.csproj|e:\\aptech\\c-sharp\\c-sharp\\lesson3\\lesson7\\lesson7\\primecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB66876-9B74-4F6D-81FD-EA85751F9D73}|Lesson7\\Lesson7.csproj|solutionrelative:lesson7\\primecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeCounter.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\Lesson7\\Lesson7\\PrimeCounter.cs",
+              "RelativeDocumentMoniker": "Lesson7\\PrimeCounter.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\Lesson7\\Lesson7\\PrimeCounter.cs",
+              "RelativeToolTip": "Lesson7\\PrimeCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:33:43.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\Lesson7\\Lesson7\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7\\Program.cs",
+              "ToolTip": "E:\\Aptech\\C-Sharp\\C-Sharp\\Lesson3\\Lesson7\\Lesson7\\Program.cs",
+              "RelativeToolTip": "Lesson7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:32:45.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
