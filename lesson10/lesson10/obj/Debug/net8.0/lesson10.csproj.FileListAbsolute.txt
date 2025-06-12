@@ -1,0 +1,5 @@
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\lesson10\lesson10\obj\Debug\net8.0\lesson10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\lesson10\lesson10\obj\Debug\net8.0\lesson10.AssemblyInfoInputs.cache
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\lesson10\lesson10\obj\Debug\net8.0\lesson10.AssemblyInfo.cs
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\lesson10\lesson10\obj\Debug\net8.0\lesson10.csproj.CoreCompileInputs.cache
+E:\Aptech\C-Sharp\C-Sharp\Lesson3\lesson10\lesson10\obj\Debug\net8.0\lesson10.sourcelink.json
